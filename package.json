@@ -1,0 +1,21 @@
+{
+  "name": "clinic_booking_system_full_crud_with_sql",
+  "version": "1.0.0",
+  "description": "This is a simple full-stack clinic booking system that includes: - A MySQL database schema - Node.js + Express REST API for appointments",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1",
+    "mysql2": "^3.14.1",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
